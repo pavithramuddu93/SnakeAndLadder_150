@@ -3,8 +3,10 @@ package blz;
 public class SnakeandLadder {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+			
+			
+			int player1StartPosition=0;
+			System.out.println(" Player 1's initial position is: " +player1StartPosition);
+		}
 
 	}
-
-}
